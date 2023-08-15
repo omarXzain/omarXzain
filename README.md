@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omarXzain&theme=radical&show_icons=true,prs">
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/omarXzain?cardType=github&theme=dracula&preferLogin=true">
 </p>
 
 <p align="center">
