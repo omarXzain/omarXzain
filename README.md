@@ -1,11 +1,8 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=omarxzain&label=Profile%20views&color=0e75b6&style=flat" alt="omarxzain" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=omarxzain&label=Profile%20views&color=0e75b6&style=flat" alt="omarxzain" /> <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="20px"></p>
 
 <p align="center">
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/omarXzain?cardType=github&theme=dracula&preferLogin=true">
 </p>
-
-
-  
 
 <p align="center"> <a href="https://twitter.com/omarxzain" target="blank"><img src="https://img.shields.io/twitter/follow/omarxzain?logo=twitter&style=for-the-badge" alt="omarxzain" /></a> </p>
 
